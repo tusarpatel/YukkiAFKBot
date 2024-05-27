@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://graph.org/file/a89a03efc7f4bf077a4a6.jpg" alt="ICON" width="150" height="150"/></p>
 
 <h4 align="center">
@@ -23,7 +24,7 @@ A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and wi
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Yukki AFK Bot on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=[https://github.com/tusarpatel/YukkiAFKBot](https://github.com/tusarpatel/YukkiAFKBot)"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/tusarpatel/YukkiAFKBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 🖇 VPS Deployment
 
