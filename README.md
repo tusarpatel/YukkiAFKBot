@@ -10,7 +10,7 @@
 </p>
     
 
-# Yukki AFK Bot
+# Nothing AFK Bot
 A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and with so many interactive features.
 
 ## 🖇 Prerequisites
